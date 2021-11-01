@@ -12,7 +12,7 @@
 ![GITHUB](https://github.com/A-0428/Azure-Common-isuss/blob/main/AzureVM-firewall-settings/AzureNSG04.jpg) <br>
 8.設定要開放的port規則(這邊範例為開啟443 port)，設定好後點選**新增** <br>
 ![GITHUB](https://github.com/A-0428/Azure-Common-isuss/blob/main/AzureVM-firewall-settings/AzureNSG05.jpg) <br>
-* 完成後就會直接顯示出來剛剛所設定的規則 <br>
+**完成後就會直接顯示出來剛剛所設定的規則** <br>
 ![GITHUB](https://github.com/A-0428/Azure-Common-isuss/blob/main/AzureVM-firewall-settings/AzureNSG06.jpg) <br>
 
 **微軟官方文件-使用安全性規則 : https://docs.microsoft.com/zh-tw/azure/virtual-network/manage-network-security-group#work-with-security-rules**
