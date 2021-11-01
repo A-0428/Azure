@@ -14,3 +14,5 @@
 ![GITHUB](https://github.com/A-0428/Azure-Common-isuss/blob/main/AzureVM-firewall-settings/AzureNSG05.jpg) <br>
 **完成後就會直接顯示出來剛剛所設定的規則** <br>
 ![GITHUB](https://github.com/A-0428/Azure-Common-isuss/blob/main/AzureVM-firewall-settings/AzureNSG06.jpg) <br>
+
+**微軟官方文件-使用安全性規則 : https://docs.microsoft.com/zh-tw/azure/virtual-network/manage-network-security-group#work-with-security-rules**
