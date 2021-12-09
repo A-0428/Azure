@@ -20,6 +20,6 @@
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image9.jpg) <br>
 11. 這是購買完成畫面，現在我們點選"**Manage users**"去看看我們剛剛購買的那1U是否有購買成功 <br>
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image10.jpg) <br>
-12. 進入到Visual Studio Subscriptions管理介面中可以看到左邊的"Visual Studio Professional-moathly"已經有1U在上面了 <br>
+12. 進入到Visual Studio Subscriptions管理介面中可以看到左邊的"**Visual Studio Professional-moathly**"已經有1U在上面了 <br>
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image11.jpg) <br>
 之後要做新增或縮減都可以從此管理頁面做操作 <br>
