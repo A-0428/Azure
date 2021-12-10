@@ -11,7 +11,7 @@
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image5.jpg) <br>
 6. 進入到**Visual Studio Professional - monthly subscription**，點擊"**Get**" <br>
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image6.jpg) <br>
-7. 進到Billing uses Microsoft Azure畫面後會看到你的subscription ID，確認沒問題就店選"**Continue**" <br>
+7. 進到Billing uses Microsoft Azure畫面後會看到你的subscription ID，確認沒問題就點選"**Continue**" <br>
 ![GITHUB](https://github.com/A-0428/Azure/blob/main/Visual%20Studio%20in%20CSP/Visual%20Studio%20in%20CSP%20image/image7.jpg) <br>
 8. 確認需要的數量來做調整 <br>
 9. 新增好需要的數量後就可以點選"**Continue**" <br>
